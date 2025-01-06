@@ -1,0 +1,6 @@
+projectKey=POC-SONAR
+serverUrl=http://localhost:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://localhost:9000/dashboard?id=POC-SONAR
+ceTaskId=059292c4-8667-4a11-9e7b-214136ce14d6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=059292c4-8667-4a11-9e7b-214136ce14d6
